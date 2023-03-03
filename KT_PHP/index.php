@@ -50,7 +50,7 @@ if(isset($_REQUEST["signup"])){
 <body>
 <center>
     <form action="" class="frm" method="POST">
-        <h2>Welcome</h2>
+        <h2 style="background:aquamarine;">WELCOME</h2>
         <input type="text" name="email" id="email" placeholder="Work email" value="<?php echo$_POST['email'] ?>">
         <br><span class="error"><?php if(isset($_REQUEST["signup"])){ echo $errors["email"]; }?></span>
          <br>
