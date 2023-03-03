@@ -1,0 +1,19 @@
+ bài tập 1:
+b1: tạo ra một form gồm : các input:
+    + work email
+    +first name, lastname
+    + password
+    và nút cuối là sign up
+
+
+b2: tạo validation:
+    + email: khi không có dữ liệu nhập vào thì báo lỗi, theo quy định của email.
+    + name: first,last name cũng thế.
+    =>> mọi lỗi được hiện ra ở dưới chan của form.
+
+    điều kiện bắt đầu khi bấm nut sign up.
+b3: show
+khi mọi validate đều được thông qua thì cho hiện data ra bên dưới.
+
+
+    done
